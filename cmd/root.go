@@ -10,7 +10,7 @@ import (
 var (
 	verbose    bool
 	configPath string
-	version    = "dev"
+	version    = "1.0.0"
 )
 
 var rootCmd = &cobra.Command{
