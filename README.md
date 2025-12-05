@@ -19,7 +19,7 @@
 ### Install from Source
 
 ```bash
-go install github.com/ccxdev/opssh@latest
+go install github.com/ccxdev/opssh
 ```
 
 ### Build from Source
